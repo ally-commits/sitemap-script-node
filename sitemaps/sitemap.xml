@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.elocals.in</loc>
+    </url>
+
+    <url>
+        <loc>https://www.elocals.in/aboutus</loc>
+    </url>  
+
+    <url>
+        <loc>https://www.elocals.in/contactus</loc>
+    </url>
+
+    <url>
+        <loc>https://www.elocals.in/faq</loc>
+    </url> 
+
+    <url>
+        <loc>https://www.elocals.in/priceing</loc>
+    </url>
+
+    <url>
+        <loc>https://www.elocals.in/search</loc>
+    </url>
+
+    <url>
+        <loc>https://www.elocals.in/seller-registration</loc>
+    </url>
+
+    <url>
+        <loc>https://www.elocals.in/sellers</loc>
+    </url>
+
+    <url>
+        <loc>https://www.elocals.in/terms</loc>
+    </url>
+        
+    <url>
+        <loc>https://www.elocals.in/seller-sitemap.xml</loc>
+    </url>
+
+    <url>
+        <loc>https://www.elocals.in/product-sitemap.xml</loc>
+    </url>
+    
+</urlset>

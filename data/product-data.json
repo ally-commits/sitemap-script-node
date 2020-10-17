@@ -1,0 +1,1497 @@
+
+[
+      {
+        "sellerId": 5,
+        "productName": "Basic Vegetables - Weekly Basket (Fresh) -  Jeevika",
+        "productId": 4810,
+        "variantId": 4811
+      },
+      {
+        "sellerId": 5,
+        "productName": "Seasonal Vegetables - Weekly Basket (Fresh) -  Jeevika",
+        "productId": 4812,
+        "variantId": 4814
+      },
+      {
+        "sellerId": 5,
+        "productName": "Capsicum Fresh - Green, 500 g - Jeevika",
+        "productId": 4813,
+        "variantId": 4815
+      },
+      {
+        "sellerId": 5,
+        "productName": "Beetroot Fresh, 500 g - Jeevika",
+        "productId": 4816,
+        "variantId": 4819
+      },
+      {
+        "sellerId": 5,
+        "productName": "Pumpkin Fresh - Disco, 1 kg - Jeevika",
+        "productId": 4817,
+        "variantId": 4832
+      },
+      {
+        "sellerId": 5,
+        "productName": "Coccinia Fresh, 500 g - Jeevika",
+        "productId": 4818,
+        "variantId": 4824
+      },
+      {
+        "sellerId": 5,
+        "productName": "Sponge Gourd / Nenua- Fresh , 1 kg (Jeevika)",
+        "productId": 4820,
+        "variantId": 4826
+      },
+      {
+        "sellerId": 5,
+        "productName": "Mushrooms Fresh - Button, 200 g  (Jeevika)",
+        "productId": 4821,
+        "variantId": 4830
+      },
+      {
+        "sellerId": 5,
+        "productName": "Broccoli  Fresh, 250 g - Jeevika",
+        "productId": 4822,
+        "variantId": 4827
+      },
+      {
+        "sellerId": 5,
+        "productName": "Yam Fresh - Elephant Foot, 1 kg - Jeevika",
+        "productId": 4823,
+        "variantId": 4828
+      },
+      {
+        "sellerId": 5,
+        "productName": "Sweet Corn, 2 pcs - Jeevika",
+        "productId": 4825,
+        "variantId": 4829
+      },
+      {
+        "sellerId": 5,
+        "productName": "Beans  Fresh - French, Ring, 500 g (Jeevika)",
+        "productId": 4831,
+        "variantId": 4833
+      },
+      {
+        "sellerId": 5,
+        "productName": "Fresh Lauki / Kaddu / Gourd  - 1 Pc (Jeevika)",
+        "productId": 4834,
+        "variantId": 4837
+      },
+      {
+        "sellerId": 5,
+        "productName": "Snake Gourd Fresh, 500 g (Jeevika)",
+        "productId": 4835,
+        "variantId": 4838
+      },
+      {
+        "sellerId": 5,
+        "productName": "Cucumber Fresh, 500 g (Jeevika)",
+        "productId": 4836,
+        "variantId": 4839
+      },
+      {
+        "sellerId": 5,
+        "productName": "Fresh Brinjal / Baigan - 500 g  (Jeevika)",
+        "productId": 4840,
+        "variantId": 4843
+      },
+      {
+        "sellerId": 5,
+        "productName": "Fresh Parwal - 500g (Jeevika)",
+        "productId": 4841,
+        "variantId": 4844
+      },
+      {
+        "sellerId": 5,
+        "productName": "Fresh Ladies Finger (Bhindi) - 500g (Jeevika) ",
+        "productId": 4842,
+        "variantId": 4845
+      },
+      {
+        "sellerId": 5,
+        "productName": "Fresh Bitter Gourd / Karela - 500g (Jeevika)",
+        "productId": 4846,
+        "variantId": 4861
+      },
+      {
+        "sellerId": 5,
+        "productName": "Potatao (2.5 Kg) - (Jeevika)\n",
+        "productId": 4847,
+        "variantId": 4849
+      },
+      {
+        "sellerId": 5,
+        "productName": "Tomato Fresh (1 Kg) - (Jeevika)\n",
+        "productId": 4848,
+        "variantId": 4851
+      },
+      {
+        "sellerId": 5,
+        "productName": "Adarak Fresh (Ginger) - 250g (Jeevika)\n",
+        "productId": 4850,
+        "variantId": 4855
+      },
+      {
+        "sellerId": 5,
+        "productName": "Onion (2.5 Kg) - (Jeevika)\n",
+        "productId": 4852,
+        "variantId": 4863
+      },
+      {
+        "sellerId": 5,
+        "productName": "Dhaniya Patta / Coriander Leaves Fresh - 250g  (Jeevika)\n",
+        "productId": 4853,
+        "variantId": 4857
+      },
+      {
+        "sellerId": 5,
+        "productName": "Banana Fresh (6pc)",
+        "productId": 4854,
+        "variantId": 4858
+      },
+      {
+        "sellerId": 5,
+        "productName": "Lemon Fresh ( 4 Pc) - (Jeevika)\n",
+        "productId": 4856,
+        "variantId": 4860
+      },
+      {
+        "sellerId": 5,
+        "productName": "Green Mirch Fresh (100g)",
+        "productId": 4859,
+        "variantId": 4862
+      },
+      {
+        "sellerId": 6,
+        "productName": "Fresh - Chicken Curry Cut (Boneless)",
+        "productId": 4864,
+        "variantId": 4865
+      },
+      {
+        "sellerId": 6,
+        "productName": "Fresh - Chicken Curry Cut (Boneless)",
+        "productId": 4864,
+        "variantId": 4866
+      },
+      {
+        "sellerId": 6,
+        "productName": "Fresh - Chicken Curry Cut (Bone & Boneless)",
+        "productId": 4867,
+        "variantId": 4869
+      },
+      {
+        "sellerId": 6,
+        "productName": "Fresh - Chicken Curry Cut (Bone & Boneless)",
+        "productId": 4867,
+        "variantId": 4871
+      },
+      {
+        "sellerId": 6,
+        "productName": "Fresh - Chicken (Raw / Khada / Whole ) 700-750 g",
+        "productId": 4868,
+        "variantId": 4870
+      },
+      {
+        "sellerId": 6,
+        "productName": "Desi/Dehati Chicken Curry Cut ",
+        "productId": 4872,
+        "variantId": 4874
+      },
+      {
+        "sellerId": 6,
+        "productName": "Desi/Dehati Chicken Curry Cut ",
+        "productId": 4872,
+        "variantId": 4877
+      },
+      {
+        "sellerId": 6,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4876
+      },
+      {
+        "sellerId": 6,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4882
+      },
+      {
+        "sellerId": 6,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4884
+      },
+      {
+        "sellerId": 6,
+        "productName": "Chicken Lollipop ",
+        "productId": 4875,
+        "variantId": 4878
+      },
+      {
+        "sellerId": 6,
+        "productName": "Chicken Lollipop ",
+        "productId": 4875,
+        "variantId": 4880
+      },
+      {
+        "sellerId": 6,
+        "productName": "Mutton Curry Cut (Goat) ",
+        "productId": 4879,
+        "variantId": 4881
+      },
+      {
+        "sellerId": 6,
+        "productName": "Mutton Curry Cut (Goat) ",
+        "productId": 4879,
+        "variantId": 4883
+      },
+      {
+        "sellerId": 6,
+        "productName": "Chicken Keema (Boneless) \n",
+        "productId": 4885,
+        "variantId": 4886
+      },
+      {
+        "sellerId": 6,
+        "productName": "Chicken Keema (Boneless) \n",
+        "productId": 4885,
+        "variantId": 4887
+      },
+      {
+        "sellerId": 6,
+        "productName": " Potato - 2.5 kg",
+        "productId": 4888,
+        "variantId": 4889
+      },
+      {
+        "sellerId": 6,
+        "productName": "Onion - 2.5 kg",
+        "productId": 4890,
+        "variantId": 4891
+      },
+      {
+        "sellerId": 6,
+        "productName": "Fresh Birla Morton Baby Corn -  400 g",
+        "productId": 4892,
+        "variantId": 4894
+      },
+      {
+        "sellerId": 6,
+        "productName": "Fresh Birla Morton Mushrooms -  400 g",
+        "productId": 4893,
+        "variantId": 4895
+      },
+      {
+        "sellerId": 7,
+        "productName": "Covid Essential Kit - 1 | (5pc 3-Ply Mask + 1 Dettol Sanitizer 100ml)",
+        "productId": 4896,
+        "variantId": 4899
+      },
+      {
+        "sellerId": 7,
+        "productName": "Covid Essential Kit - 3 | (3pc N95 Mask (Meltblown Fabric High Quality) + 1 Dettol Sanitizer 100ml)",
+        "productId": 4897,
+        "variantId": 4900
+      },
+      {
+        "sellerId": 7,
+        "productName": "Covid Essential Kit - 2 | (2 Pair Latex Gloves(2pc)+ 2pc 3ply mask + 2pc N95 Mask (Meltblown Fabric High Quality) + 1 Godrej Handwash 200ml +1 Dettol Sanitizer 100ml)",
+        "productId": 4898,
+        "variantId": 4901
+      },
+      {
+        "sellerId": 7,
+        "productName": "Covid Essential Kit - 6 | N95 Mask (10pc) (Meltblown Fabric High Quality) + 2pc Dettol Sanitizer 100ml",
+        "productId": 4902,
+        "variantId": 4905
+      },
+      {
+        "sellerId": 7,
+        "productName": "Covid Essential Kit - 4 | (3pc N95 Mask (Meltblown Fabric High Quality) + 3 Pair Latex Gloves + 1 Dettol Sanitizer 100ml)",
+        "productId": 4903,
+        "variantId": 4906
+      },
+      {
+        "sellerId": 7,
+        "productName": "Covid Essential Kit - 5 | 3-Ply Mask (50pc) + 2pc Dettol Sanitizer 100ml",
+        "productId": 4904,
+        "variantId": 4907
+      },
+      {
+        "sellerId": 8,
+        "productName": "Sattuz - Chocolate Flavour Family Pack (6 Servings)",
+        "productId": 5039,
+        "variantId": 5040
+      },
+      {
+        "sellerId": 8,
+        "productName": "Sattuz - Jaljeera Flavour Family Pack (6 Servings)",
+        "productId": 5041,
+        "variantId": 5044
+      },
+      {
+        "sellerId": 8,
+        "productName": "Sattuz - Sweet Flavour Family Pack (6 Servings)",
+        "productId": 5042,
+        "variantId": 5045
+      },
+      {
+        "sellerId": 8,
+        "productName": "Sattuz - Combo Flavours Family Pack (6 Servings)",
+        "productId": 5043,
+        "variantId": 5046
+      },
+      {
+        "sellerId": 9,
+        "productName": "OPPO A1K (32 GB) (2 GB RAM)",
+        "productId": 4908,
+        "variantId": 4909
+      },
+      {
+        "sellerId": 9,
+        "productName": "OPPO F15 (128 GB) (8 GB RAM)",
+        "productId": 4910,
+        "variantId": 4912
+      },
+      {
+        "sellerId": 9,
+        "productName": "OPPO A31 (Mystery Black, 64 GB) (4 GB RAM)",
+        "productId": 4911,
+        "variantId": 4913
+      },
+      {
+        "sellerId": 9,
+        "productName": "OPPO A9 2020 (128 GB)  (4 GB RAM)\n",
+        "productId": 4914,
+        "variantId": 4915
+      },
+      {
+        "sellerId": 9,
+        "productName": "OPPO A9 2020 (128 GB)  (8 GB RAM)\n",
+        "productId": 4916,
+        "variantId": 4917
+      },
+      {
+        "sellerId": 9,
+        "productName": "OPPO Reno3 Pro (128 GB)  (8 GB RAM)\n",
+        "productId": 4918,
+        "variantId": 4921
+      },
+      {
+        "sellerId": 9,
+        "productName": "OPPO Reno2 Z (256 GB)  (8 GB RAM)\n",
+        "productId": 4919,
+        "variantId": 4922
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Guru FM Plus SM-B110E\n",
+        "productId": 4920,
+        "variantId": 4939
+      },
+      {
+        "sellerId": 9,
+        "productName": "OPPO Reno2 F (128 GB)  (8 GB RAM)\n",
+        "productId": 4923,
+        "variantId": 4929
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Guru FM Plus SM-B110E\n",
+        "productId": 4924,
+        "variantId": 4928
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Guru Music 2 SM-B310E\n",
+        "productId": 4925,
+        "variantId": 4935
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Guru Music 2 SM-B310E\n",
+        "productId": 4926,
+        "variantId": 4930
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Guru FM Plus SM-B110E\n",
+        "productId": 4927,
+        "variantId": 4933
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Guru 1200 (GT-E1200)\n",
+        "productId": 4931,
+        "variantId": 4934
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Metro  (SM-B355E)",
+        "productId": 4932,
+        "variantId": 4940
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Galaxy A20s (64 GB)  (4 GB RAM)\n",
+        "productId": 4936,
+        "variantId": 4945
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Galaxy A51 (128 GB)  (6 GB RAM)\n",
+        "productId": 4937,
+        "variantId": 4941
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Galaxy A71 ( 128 GB)  (8 GB RAM)\n",
+        "productId": 4938,
+        "variantId": 4949
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 3.1 Plus (32 GB)  (3 GB RAM)\n",
+        "productId": 4942,
+        "variantId": 4946
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Galaxy A30s (128 GB)  (4 GB RAM)\n",
+        "productId": 4943,
+        "variantId": 4947
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 3.2 (32 GB)  (3 GB RAM)\n",
+        "productId": 4944,
+        "variantId": 4952
+      },
+      {
+        "sellerId": 9,
+        "productName": "Samsung Galaxy A10s (32 GB)  (3 GB RAM)\n",
+        "productId": 4948,
+        "variantId": 4959
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 3310 \n",
+        "productId": 4950,
+        "variantId": 4953
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 2.2 ( 32 GB)  (3 GB RAM)",
+        "productId": 4951,
+        "variantId": 4954
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 2.2 ( 16 GB)  (2 GB RAM)\n",
+        "productId": 4955,
+        "variantId": 4958
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 3310 \n",
+        "productId": 4956,
+        "variantId": 4964
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 150",
+        "productId": 4957,
+        "variantId": 4960
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 150",
+        "productId": 4961,
+        "variantId": 4970
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 110 (Dual Sim)",
+        "productId": 4962,
+        "variantId": 4967
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 105 (Single Sim)",
+        "productId": 4963,
+        "variantId": 4966
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 110 (Dual Sim)",
+        "productId": 4965,
+        "variantId": 4974
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 105 (Single Sim)",
+        "productId": 4968,
+        "variantId": 4975
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 105 (Dual Sim)",
+        "productId": 4969,
+        "variantId": 4972
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 105 (Single Sim)",
+        "productId": 4971,
+        "variantId": 4976
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 105 (Dual Sim)",
+        "productId": 4973,
+        "variantId": 4977
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 110 (Dual Sim)",
+        "productId": 4978,
+        "variantId": 4979
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X421",
+        "productId": 4980,
+        "variantId": 4986
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X773",
+        "productId": 4981,
+        "variantId": 4988
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X512",
+        "productId": 4982,
+        "variantId": 4993
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X772",
+        "productId": 4983,
+        "variantId": 4990
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X378",
+        "productId": 4984,
+        "variantId": 4991
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X412",
+        "productId": 4985,
+        "variantId": 4995
+      },
+      {
+        "sellerId": 9,
+        "productName": "Nokia 105 (Dual Sim)",
+        "productId": 4987,
+        "variantId": 4992
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X380",
+        "productId": 4989,
+        "variantId": 4994
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X744",
+        "productId": 4996,
+        "variantId": 4998
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X811",
+        "productId": 4997,
+        "variantId": 5004
+      },
+      {
+        "sellerId": 9,
+        "productName": "Micromax X746",
+        "productId": 4999,
+        "variantId": 5002
+      },
+      {
+        "sellerId": 9,
+        "productName": "Lava A1",
+        "productId": 5000,
+        "variantId": 5003
+      },
+      {
+        "sellerId": 9,
+        "productName": "Karbonn K24+ ",
+        "productId": 5001,
+        "variantId": 5006
+      },
+      {
+        "sellerId": 9,
+        "productName": "Itel it5603",
+        "productId": 5005,
+        "variantId": 5009
+      },
+      {
+        "sellerId": 9,
+        "productName": "Lava A3",
+        "productId": 5007,
+        "variantId": 5010
+      },
+      {
+        "sellerId": 9,
+        "productName": "Lava Spark i8",
+        "productId": 5008,
+        "variantId": 5011
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk ULTRA 128 GB SD Card Class 10 100 MB/s Memory Card\n",
+        "productId": 5012,
+        "variantId": 5013
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk ULTRA 128 GB SD Card Class 10 100 MB/s Memory Card\n",
+        "productId": 5012,
+        "variantId": 5016
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk  CARD 64 GB MicroSD Card  98 MB/s Memory Card",
+        "productId": 5014,
+        "variantId": 5017
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk  CARD 64 GB MicroSD Card  98 MB/s Memory Card",
+        "productId": 5014,
+        "variantId": 5019
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk Ultra 16 GB MicroSD Card Class 10 98 MB/s Memory Card\r\n",
+        "productId": 5015,
+        "variantId": 5018
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk Ultra 16 GB MicroSD Card Class 10 98 MB/s Memory Card\r\n",
+        "productId": 5015,
+        "variantId": 5020
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk Pendrive 64 GB Pen Drive  (2.0)",
+        "productId": 5021,
+        "variantId": 5022
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk Pendrive 64 GB Pen Drive  (2.0)",
+        "productId": 5021,
+        "variantId": 5024
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk CRUZER BLADE USB DRIVE 16 GB (2.0)",
+        "productId": 5023,
+        "variantId": 5025
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk CRUZER BLADE USB DRIVE 16 GB (2.0)",
+        "productId": 5023,
+        "variantId": 5029
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk SDSQUNC 32 GB MicroSD Card Class 10 98 MB/s Memory Card\r",
+        "productId": 5026,
+        "variantId": 5030
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk SDSQUNC 32 GB MicroSD Card Class 10 98 MB/s Memory Card\r",
+        "productId": 5026,
+        "variantId": 5032
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk Ultra Dual / 64 GB OTG Drive  (Black, Type A to Micro USB) - 3.0",
+        "productId": 5027,
+        "variantId": 5033
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk Ultra Dual / 32 GB OTG Drive  (Black, Type A to Micro USB) - 3.0",
+        "productId": 5028,
+        "variantId": 5031
+      },
+      {
+        "sellerId": 9,
+        "productName": "SanDisk Ultra Dual / 16 GB OTG Drive  (Black, Type A to Micro USB) - 3.0",
+        "productId": 5034,
+        "variantId": 5035
+      },
+      {
+        "sellerId": 9,
+        "productName": "Sandisk Cruzer Blade 32 GB (2.0)",
+        "productId": 5036,
+        "variantId": 5037
+      },
+      {
+        "sellerId": 9,
+        "productName": "Sandisk Cruzer Blade 32 GB (2.0)",
+        "productId": 5036,
+        "variantId": 5038
+      },
+      {
+        "sellerId": 14,
+        "productName": "SYNGONIUM - INDOOR/AIR PURIFYING PLANT",
+        "productId": 5105,
+        "variantId": 5107
+      },
+      {
+        "sellerId": 14,
+        "productName": "ALOE VERA",
+        "productId": 5106,
+        "variantId": 5108
+      },
+      {
+        "sellerId": 14,
+        "productName": "SANSEVERIA (SNAKE PLANT) - INDOOR/AIR PURIFYING PLANT",
+        "productId": 5109,
+        "variantId": 5110
+      },
+      {
+        "sellerId": 14,
+        "productName": "CRASSULA OVATA - GOOD LUCK PLANT",
+        "productId": 5112,
+        "variantId": 5116
+      },
+      {
+        "sellerId": 14,
+        "productName": "ARECA PALM - INDOOR/AIR PURIFYING PLANT",
+        "productId": 5113,
+        "variantId": 5120
+      },
+      {
+        "sellerId": 14,
+        "productName": "SONG OF INDIA - AIR PURIFYING PLANT",
+        "productId": 5115,
+        "variantId": 5118
+      },
+      {
+        "sellerId": 14,
+        "productName": "BANANA (G9)",
+        "productId": 5117,
+        "variantId": 5134
+      },
+      {
+        "sellerId": 14,
+        "productName": "MONEY PLANT - INDOOR/AIR PURIFYING PLANT (With Pot)",
+        "productId": 5119,
+        "variantId": 5127
+      },
+      {
+        "sellerId": 14,
+        "productName": "ADENIUM (Hybrid)",
+        "productId": 5121,
+        "variantId": 5125
+      },
+      {
+        "sellerId": 14,
+        "productName": "SHAMI PLANT",
+        "productId": 5122,
+        "variantId": 5126
+      },
+      {
+        "sellerId": 14,
+        "productName": "All TIME MANGO (Hybrid)",
+        "productId": 5123,
+        "variantId": 5129
+      },
+      {
+        "sellerId": 14,
+        "productName": "JADE PLANT - GOOD LUCK PLANT",
+        "productId": 5124,
+        "variantId": 5138
+      },
+      {
+        "sellerId": 14,
+        "productName": "GUAVA (KG) - Hybrid",
+        "productId": 5128,
+        "variantId": 5131
+      },
+      {
+        "sellerId": 14,
+        "productName": "BAY LEAF - TEJ PATTA SPICE",
+        "productId": 5130,
+        "variantId": 5135
+      },
+      {
+        "sellerId": 14,
+        "productName": "All SPICE PLANT - Combined flavour of Cinnamon, Nutmeg, Clove",
+        "productId": 5132,
+        "variantId": 5136
+      },
+      {
+        "sellerId": 14,
+        "productName": "RUBBER PLANT (With Pot)",
+        "productId": 5133,
+        "variantId": 5140
+      },
+      {
+        "sellerId": 14,
+        "productName": "VERMICOMPOST 5 KG",
+        "productId": 5139,
+        "variantId": 5141
+      },
+      {
+        "sellerId": 14,
+        "productName": "GARDENING LEARNING KIT",
+        "productId": 5143,
+        "variantId": 5145
+      },
+      {
+        "sellerId": 14,
+        "productName": "LEMON GRASS",
+        "productId": 5144,
+        "variantId": 5146
+      },
+      {
+        "sellerId": 16,
+        "productName": "COVID TANK SPRAYER (1000 LTR CAPACITY)",
+        "productId": 5155,
+        "variantId": 5157
+      },
+      {
+        "sellerId": 16,
+        "productName": "CORRUGATED BED (500 Pc)",
+        "productId": 5156,
+        "variantId": 5158
+      },
+      {
+        "sellerId": 16,
+        "productName": " MEKINS DISINFECTION TROLLEY",
+        "productId": 5159,
+        "variantId": 5162
+      },
+      {
+        "sellerId": 16,
+        "productName": "UV-C BASED DISINFECTION CONVEYOR FOR COVID 19 (Light Duty)",
+        "productId": 5160,
+        "variantId": 5163
+      },
+      {
+        "sellerId": 16,
+        "productName": "VANORA FULLY AUTO AI BASED DISINFECTION ROBOT",
+        "productId": 5161,
+        "variantId": 5164
+      },
+      {
+        "sellerId": 16,
+        "productName": "AYU STETHOSCOPE",
+        "productId": 5165,
+        "variantId": 5167
+      },
+      {
+        "sellerId": 16,
+        "productName": "UV-C BASED DISINFECTION CONVEYOR FOR COVID 19 (Heavy Duty)",
+        "productId": 5166,
+        "variantId": 5169
+      },
+      {
+        "sellerId": 16,
+        "productName": "NANHA (ACCESS CONTROL AND ATTENDANCE MANAGEMENT SYSTEM",
+        "productId": 5168,
+        "variantId": 5170
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 1 TON COPPER SPLIT AC - (FS312YBTU)",
+        "productId": 7550,
+        "variantId": 7552
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 1 TON COPPER SPLIT AC - (FS312YATU)",
+        "productId": 7556,
+        "variantId": 7565
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 1.5 TON COPPER SPLIT AC - (FS318AATU)",
+        "productId": 7595,
+        "variantId": 7612
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 1.5 TON NON COPPER SPLIT AC - (FS318AATX)",
+        "productId": 7646,
+        "variantId": 7662
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 1 TON COPPER INVERTER AC - (IC312RBTU)",
+        "productId": 7911,
+        "variantId": 7920
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 1.5 TON COPPER INVERETER AC - (IC318YBTU)",
+        "productId": 7922,
+        "variantId": 7926
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 2 TON COPPER INVERTER AC - (IC324YATU)",
+        "productId": 7933,
+        "variantId": 7945
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 1 TON COPPER WINDOW AC - (3W12LA)",
+        "productId": 7947,
+        "variantId": 7957
+      },
+      {
+        "sellerId": 17,
+        "productName": "Blue Star - 3 STAR 1.5 TON COPPER WINDOW AC - (3W18GBT)",
+        "productId": 7959,
+        "variantId": 7969
+      },
+      {
+        "sellerId": 20,
+        "productName": "Terracotta Clay Tawa, Brown, 1 Piece",
+        "productId": 7984,
+        "variantId": 7986
+      },
+      {
+        "sellerId": 20,
+        "productName": "Terracotta Clay Tawa, Brown, Set of 2",
+        "productId": 8011,
+        "variantId": 8015
+      },
+      {
+        "sellerId": 20,
+        "productName": "Terracotta Clay Tawa, Brown, Set of 3",
+        "productId": 8026,
+        "variantId": 8031
+      },
+      {
+        "sellerId": 20,
+        "productName": "Terracotta Clay Bottle, Brown, 2 Ltr",
+        "productId": 8351,
+        "variantId": 8353
+      },
+      {
+        "sellerId": 21,
+        "productName": "Fresh - Chicken Curry Cut (Boneless)",
+        "productId": 4864,
+        "variantId": 4865
+      },
+      {
+        "sellerId": 21,
+        "productName": "Fresh - Chicken Curry Cut (Boneless)",
+        "productId": 4864,
+        "variantId": 4866
+      },
+      {
+        "sellerId": 21,
+        "productName": "Fresh - Chicken Curry Cut (Bone & Boneless)",
+        "productId": 4867,
+        "variantId": 4869
+      },
+      {
+        "sellerId": 21,
+        "productName": "Fresh - Chicken Curry Cut (Bone & Boneless)",
+        "productId": 4867,
+        "variantId": 4871
+      },
+      {
+        "sellerId": 21,
+        "productName": "Fresh - Chicken (Raw / Khada / Whole ) 700-750 g",
+        "productId": 4868,
+        "variantId": 4870
+      },
+      {
+        "sellerId": 21,
+        "productName": "Desi/Dehati Chicken Curry Cut ",
+        "productId": 4872,
+        "variantId": 4874
+      },
+      {
+        "sellerId": 21,
+        "productName": "Desi/Dehati Chicken Curry Cut ",
+        "productId": 4872,
+        "variantId": 4877
+      },
+      {
+        "sellerId": 21,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4876
+      },
+      {
+        "sellerId": 21,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4882
+      },
+      {
+        "sellerId": 21,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4884
+      },
+      {
+        "sellerId": 21,
+        "productName": "Chicken Lollipop ",
+        "productId": 4875,
+        "variantId": 4878
+      },
+      {
+        "sellerId": 21,
+        "productName": "Chicken Lollipop ",
+        "productId": 4875,
+        "variantId": 4880
+      },
+      {
+        "sellerId": 21,
+        "productName": "Mutton Curry Cut (Goat) ",
+        "productId": 4879,
+        "variantId": 4881
+      },
+      {
+        "sellerId": 21,
+        "productName": "Mutton Curry Cut (Goat) ",
+        "productId": 4879,
+        "variantId": 4883
+      },
+      {
+        "sellerId": 21,
+        "productName": "Chicken Keema (Boneless) \n",
+        "productId": 4885,
+        "variantId": 4886
+      },
+      {
+        "sellerId": 21,
+        "productName": "Chicken Keema (Boneless) \n",
+        "productId": 4885,
+        "variantId": 4887
+      },
+      {
+        "sellerId": 21,
+        "productName": "Desi Garvan Eggs",
+        "productId": 8445,
+        "variantId": 8448
+      },
+      {
+        "sellerId": 21,
+        "productName": "Desi Garvan Eggs",
+        "productId": 8445,
+        "variantId": 8450
+      },
+      {
+        "sellerId": 21,
+        "productName": "Kadaknath Chicken",
+        "productId": 8468,
+        "variantId": 8471
+      },
+      {
+        "sellerId": 21,
+        "productName": "Kadaknath Chicken",
+        "productId": 8468,
+        "variantId": 8473
+      },
+      {
+        "sellerId": 23,
+        "productName": "Shoe Cleaning",
+        "productId": 8254,
+        "variantId": 8258
+      },
+      {
+        "sellerId": 23,
+        "productName": "Shoe Cleaning",
+        "productId": 8254,
+        "variantId": 8260
+      },
+      {
+        "sellerId": 23,
+        "productName": "Shoe Cleaning",
+        "productId": 8254,
+        "variantId": 8262
+      },
+      {
+        "sellerId": 23,
+        "productName": "Shoe Cleaning",
+        "productId": 8254,
+        "variantId": 8264
+      },
+      {
+        "sellerId": 23,
+        "productName": "Shoe Cleaning",
+        "productId": 8254,
+        "variantId": 8266
+      },
+      {
+        "sellerId": 23,
+        "productName": "Shoe Cleaning",
+        "productId": 8254,
+        "variantId": 8268
+      },
+      {
+        "sellerId": 23,
+        "productName": "Shoe Cleaning",
+        "productId": 8254,
+        "variantId": 8270
+      },
+      {
+        "sellerId": 23,
+        "productName": "Shoe Cleaning",
+        "productId": 8254,
+        "variantId": 8272
+      },
+      {
+        "sellerId": 23,
+        "productName": "Leather Jacket Cleaning & Repair",
+        "productId": 8282,
+        "variantId": 8285
+      },
+      {
+        "sellerId": 23,
+        "productName": "Leather Jacket Cleaning & Repair",
+        "productId": 8282,
+        "variantId": 8287
+      },
+      {
+        "sellerId": 24,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4876
+      },
+      {
+        "sellerId": 24,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4882
+      },
+      {
+        "sellerId": 24,
+        "productName": "Eggs Regular ",
+        "productId": 4873,
+        "variantId": 4884
+      },
+      {
+        "sellerId": 24,
+        "productName": "Chicken Keema",
+        "productId": 8197,
+        "variantId": 8200
+      },
+      {
+        "sellerId": 24,
+        "productName": "Chicken Lollipop",
+        "productId": 8202,
+        "variantId": 8205
+      },
+      {
+        "sellerId": 24,
+        "productName": "Desi Chicken",
+        "productId": 8207,
+        "variantId": 8210
+      },
+      {
+        "sellerId": 24,
+        "productName": "Mutton",
+        "productId": 8212,
+        "variantId": 8216
+      },
+      {
+        "sellerId": 24,
+        "productName": "Chicken Raw",
+        "productId": 8218,
+        "variantId": 8221
+      },
+      {
+        "sellerId": 24,
+        "productName": "Chicken",
+        "productId": 8223,
+        "variantId": 8226
+      },
+      {
+        "sellerId": 24,
+        "productName": "Desi Garvan Eggs",
+        "productId": 8445,
+        "variantId": 8448
+      },
+      {
+        "sellerId": 24,
+        "productName": "Desi Garvan Eggs",
+        "productId": 8445,
+        "variantId": 8450
+      },
+      {
+        "sellerId": 24,
+        "productName": "Kadaknath Chicken",
+        "productId": 8468,
+        "variantId": 8471
+      },
+      {
+        "sellerId": 24,
+        "productName": "Kadaknath Chicken",
+        "productId": 8468,
+        "variantId": 8473
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Lollipop",
+        "productId": 8202,
+        "variantId": 8205
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken (With Skin)",
+        "productId": 9025,
+        "variantId": 9028
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken (With Skin)",
+        "productId": 9025,
+        "variantId": 9030
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken (Without Skin)",
+        "productId": 9032,
+        "variantId": 9035
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken (Without Skin)",
+        "productId": 9032,
+        "variantId": 9037
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Boneless",
+        "productId": 9039,
+        "variantId": 9042
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Boneless",
+        "productId": 9039,
+        "variantId": 9044
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Lollipop",
+        "productId": 9046,
+        "variantId": 9049
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Lollipop",
+        "productId": 9046,
+        "variantId": 9051
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Leg piece",
+        "productId": 9053,
+        "variantId": 9056
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Leg piece",
+        "productId": 9053,
+        "variantId": 9058
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Liver",
+        "productId": 9060,
+        "variantId": 9063
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken Liver",
+        "productId": 9060,
+        "variantId": 9065
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken (Less Boneless)",
+        "productId": 9067,
+        "variantId": 9070
+      },
+      {
+        "sellerId": 29,
+        "productName": "Chicken (Less Boneless)",
+        "productId": 9067,
+        "variantId": 9072
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Ridge Gourd/Dodka",
+        "productId": 8482,
+        "variantId": 8485
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Drumstick-GradeA/Shewgyachya Shenga",
+        "productId": 8487,
+        "variantId": 8490
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Beans - Cluster Grade A/ Gawar",
+        "productId": 8492,
+        "variantId": 8495
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Sprouts- Mixed Gram",
+        "productId": 8497,
+        "variantId": 8501
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Capsicum Hybrid Green/Sankarit Dhobli Mirchi",
+        "productId": 8510,
+        "variantId": 8513
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Ladies Finger/Bhendi",
+        "productId": 8515,
+        "variantId": 8518
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Bottle Gourd/Lauki",
+        "productId": 8520,
+        "variantId": 8523
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Mixed Capsicum",
+        "productId": 8530,
+        "variantId": 8533
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Bitter Gourd/ Karela",
+        "productId": 8535,
+        "variantId": 8538
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Beetroot",
+        "productId": 8540,
+        "variantId": 8543
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Cabbage",
+        "productId": 8545,
+        "variantId": 8548
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Snake gourd",
+        "productId": 8550,
+        "variantId": 8553
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Parwal",
+        "productId": 8555,
+        "variantId": 8558
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Tomato",
+        "productId": 8561,
+        "variantId": 8564
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Brinjal/Warangi-Jambhali",
+        "productId": 8567,
+        "variantId": 8570
+      },
+      {
+        "sellerId": 8685,
+        "productName": "Cucumber- Organically grown",
+        "productId": 8667,
+        "variantId": 8670
+      },
+      {
+        "sellerId": 8737,
+        "productName": "Paint and Texture Painting - (Costing according to space) - Get Quote",
+        "productId": 8776,
+        "variantId": 8778
+      },
+      {
+        "sellerId": 8737,
+        "productName": "Wallpaper and Blind Curtain - Rs.60 onward sq.feet (Including Materials)",
+        "productId": 8783,
+        "variantId": 8785
+      },
+      {
+        "sellerId": 8737,
+        "productName": "Plumbing Service - (Costing according to your Requirement/ Fitting/ Repairing)",
+        "productId": 8788,
+        "variantId": 8790
+      },
+      {
+        "sellerId": 8737,
+        "productName": "False Ceiling and Carnish - Rs.130 sq.feet (Including Materials)",
+        "productId": 8792,
+        "variantId": 8794
+      },
+      {
+        "sellerId": 8737,
+        "productName": "Modular Kitchen - Rs.1300 sq.feet (Including Materials) ",
+        "productId": 8796,
+        "variantId": 8798
+      },
+      {
+        "sellerId": 8737,
+        "productName": "Water Tank Cleaning - Plastic Tank Rs.799, Cemented Tank Rs.1999 (Including Materials)",
+        "productId": 8800,
+        "variantId": 8802
+      },
+      {
+        "sellerId": 8737,
+        "productName": "Flooring and Matting (According to space) - Get Quote",
+        "productId": 8804,
+        "variantId": 8806
+      },
+      {
+        "sellerId": 8737,
+        "productName": "Water Proofing (Rs.20 - sq.feet excluding material)",
+        "productId": 8808,
+        "variantId": 8810
+      },
+      {
+        "sellerId": 8737,
+        "productName": "Event Organizer / Management - (Wedding, Engagement, Birthday & Other Functions)",
+        "productId": 8909,
+        "variantId": 8911
+      }
+    ] 
